@@ -23,6 +23,13 @@ public class Quiz_02 {
                             flag=1;
                         }
                         System.out.println();
+
+                        // ------------------------
+//            System.out.printf("%3s \n", "*");
+//            System.out.printf("%4s\n", "***");
+//            System.out.printf("%s \n", "*****");
+//            System.out.printf("%4s \n", "***");
+//            System.out.printf("%3s \n", "*");
                     }
                 }
             }
